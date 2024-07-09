@@ -1,9 +1,9 @@
 services:
   # A Docker web service
   - type: web
-    name: fastapi-example
+    name: fastapiServer
     runtime: python
     plan: free
     autoDeploy: false
     buildCommand: pip install -r requirements.txt
-    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    startCommand: uvicorn packages.public_api.app:app --host 0.0.0.0 --port 8000 --workers 4
