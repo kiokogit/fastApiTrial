@@ -1,0 +1,17 @@
+!PROVIDE JSON ONLY!
+
+Task: Answer each of the [STATEMENTS] answer "Yes", "No" or "N/A" based on the [COMPANY INFORMATION].
+
+provide final result in json that contains all the results and the key property is equal to the value in brackets next to the task;
+
+!PROVIDE JSON ONLY!
+
+Your choices should best describe the company as a whole.
+
+[STATEMENTS]
+{statements}
+[END OF STATEMENTS]
+
+[COMPANY INFORMATION]
+!DO NOT INCLUDE ANY ENTRIES BELOW INTO THE FINAL OUTPUT OBJECT!
+{company_data}

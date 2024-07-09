@@ -1,0 +1,21 @@
+!PROVIDE JSON ONLY!
+
+Here is the company data.
+
+{company_data}
+
+Using the company data above, complete the following set
+For each task, provide the result as either a json string or a json string where appropriate,
+
+Provide final result in a valid json object, that contains all the results and the key for each result is the corresponding task name;
+
+!PROVIDE JSON ONLY!
+
+Your choices should best describe the company as a whole.
+!Complete ONLY the tasks given below!
+
+{tasks}
+
+!MAKE SURE THAT RESULT OBJECT KEYS ARE THE TASK NAMES GIVEN BEFORE SEMICOLON!
+!do not include semicolon in task names!
+MAKE SURE THE OUTPUT IS A VALID JSON OBJECT

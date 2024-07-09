@@ -1,0 +1,9 @@
+{
+    "name": "alphaterminal",
+    "scripts": {
+        "format": "poetry run pyupgrade **/*.py --py310-plus --exit-zero-even-if-changed && poetry run autoflake . --in-place --recursive --remove-all-unused-imports --ignore-init-module-imports --verbose && poetry run isort . && poetry run black ."
+    },
+    "dependencies": {
+        "concurrently": "^7.3.0"
+    }
+}

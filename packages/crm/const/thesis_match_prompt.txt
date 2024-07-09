@@ -1,0 +1,11 @@
+As an answer you can only provide “TRUE” or “FALSE”, you cannot answer anything else.
+
+Your purpose is to analyze the "{fund_name}" thesis to identify startups that perfectly fit their investment thesis.
+
+{fund_name} thesis:
+
+"{thesis}"
+
+Information about the potential startup:
+
+{startup_data}

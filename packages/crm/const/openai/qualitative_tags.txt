@@ -1,0 +1,5 @@
+strengths: Identify the top 5 strengths of {company}. Use at most 2 words for each answer.
+weaknesses: Identify the top 5 weaknesses of {company}. Use at most 2 words for each answer.
+opportunities: Identify the top 5 opportunities of {company}. Use at most 2 words for each answer.
+threats: Identify the top 5 threats to {company} Use at most 2 words for each answer.
+technologies: Identify the top 5 technologies used by the {company}. Use at most 2 words for each answer.

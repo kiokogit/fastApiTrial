@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Looking glass | weekly report</title>
+</head>
+
+<body style="font-family:sans-serif, Arial, Helvetica;">
+  <table align="center" width="100%" cellpadding="0" cellspacing="0"
+    style="height: 100%; font-family:sans-serif, Arial, Helvetica;">
+    <tr>
+      <td>
+        <table align="center" width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+          <tr>
+            <td align="center" style="margin-top: 1.1rem;">
+              <h1>LOOKING GLASS</h1>
+            </td>
+          </tr>
+          <tr>
+            <td style="font-size: 0.85rem;line-height: 1.4;">
+              <!-- username -->
+              Dear <span class="user-name"
+                style="font-weight: bold; font-family:sans-serif, Arial, Helvetica;">{recipient_name}</span>,
+              <br>
+              <br>
+              <p>we have missed your feedback for the projects this week.</p>
+              <br>
+              <br>
+              <!-- company name -->
+              <p>here's how your team at <span class="company-name" style="font-weight: bold;">{company_name}</span> rated the projects we've sent you this week.</p>
+              <br>
+              <br>
+              <p>
+                Remember, you can always access the terminal and provide your feedback by clicking the link below.
+              </p>
+              <br>
+              <br>
+              <!-- INCLUDE REPORT LINK -->
+                <!-- EXAMPLE: https://lookingglass.arbmintel.com/report/d5ab1618-a034-4a96-a53e-6d88a0dc2165 -->
+              <a href="{report_url}" class="project-link"
+                style="color: white;border: none;background-color: rgb(17, 160, 150);width: 100%;font-size: 0.75rem;text-align: center;cursor: pointer;text-decoration: none;border-radius: 6px; padding:0.5rem">VIEW
+                THE REPORT IN THE TERMINAL</a>
+            </td>
+          </tr>
+          <!--  -->
+          <!-- the most active user -->
+          <!--  -->
+          <tr id="the-most-active-user">
+            <td style="padding-top: 1.25rem;font-size: 0.85rem;">
+              <h2 class="section-title"
+                style="font-size: 1.3rem;text-decoration-line: underline;text-transform: uppercase; font-weight: 900">
+                TEAM
+                MEMBERS
+                STATISTICS:</h2>
+              {mvp_user_section}
+              <br style="margin: 0; padding: 0;">
+              <div style="padding-bottom:1rem">
+              <table style="border-collapse: collapse;border: 1px solid #ddd;; width: 65%; text-align: center;">
+                <tr style="border-bottom: 1px solid #ddd; font-family:sans-serif, Arial, Helvetica;">
+                  <th style="padding: 3px;">Name</th>
+                  <th style="padding: 3px;">Overall</th>
+                  <th style="padding: 3px;">Projects rated</th>
+                  <th style="padding: 3px;">Great projects</th>
+                  <th style="padding: 3px;">Good projects</th>
+                  <th style="padding: 3px;">Unfit projects</th>
+                  <th style="padding: 3px;">Feedback provided</th>
+                </tr>
+                {stats_per_user}
+              </table>
+            </div>
+            </td>
+          </tr>
+          <!--  -->
+          <!-- great projects of the week -->
+          <!--  -->
+          <tr id="the-great-projects">
+            <td style="padding-top: .25rem;font-size: 0.85rem;">
+              <h2 class="section-title"
+                style="font-size: 1.3rem;text-decoration-line: underline;text-transform: uppercase; font-weight: 900">
+                The
+                Great projects of
+                the week:</h2>
+              <!-- table with id project-wrapper is a project -->
+              {great_projects}
+              <!-- finish project wrapper  -->
+            </td>
+          </tr>
+          <!--  -->
+          <!-- unrated projects of the week -->
+          <!--  -->
+          <tr id="the-unrated-projects">
+            <td style="padding-top: 1.25rem;font-size: 0.85rem;">
+              <h2 class="section-title"
+                style="font-size: 1.3rem;text-decoration-line: underline;text-transform: uppercase; font-weight: 900">
+                OTHER PROJECTS YOU'VE MISSED: </h2>
+              <i style="font-size: 0.85rem;color: gray;">Your feedback is essential in our efforts to continuously
+                improve our service and meet your expectations. We would greatly appreciate if you could take a
+                moment
+                to provide your thoughts on the deals.</i>
+              <br>
+              <br>
+              <!-- all projects are located inside the unrated-projects-list -->
+              <!-- we need to display 3 projects per row. Right now every 3 projects we need to move them to the next row -->
+              <table class="unrated-projects-list" style="font-size: 0.85rem;width:100%;">
+                <!-- tr id="row-1" is an example of first row that contains 3 projects -->
+                {other_projects}
+              </table>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <table border="0" cellpadding="0" cellspacing="0"
+      style="margin: 0; padding: 0; width: 100%; padding-top: 3rem; font-size:0.85rem">
+      <tr>
+        <td style="text-align: center;">
+          <h2 style="text-transform:uppercase; font-size:1.6rem;">----- the end of the weekly report -----</h2>
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center;">
+          Looking Glass | Real-Time Intelligence by ARBM
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center;">
+          <a href="https://arbmintel.com"
+            style="font-size: 12px; font-family: Arial, sans-serif;">https://arbmintel.com</a> T +44 (0) 7539768549
+        </td>
+      </tr>
+    </table>
+  </table>
+</body>

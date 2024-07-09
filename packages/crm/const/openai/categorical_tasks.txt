@@ -1,0 +1,7 @@
+tech_stack_layer: Select only one most appropriate value for the company's technical layer from these options: Infrastructure layer, Application layer, Hybrid. !Select only one option!
+verticals: Select between 2 and 3 most relevant verticals from the [VERTICALS LIST]. If none of the options fit well, select "Other". !Only select options that are included in the [VERTICALS LIST] or "Other"!
+customer_segments: Choose between 1 and 3 categories from "{customer_segments}", that most accurately describe current customer segments for {company}. Your choice should describe the customer type overall and not a specific industry.
+competing_space: Identify up to 4 categories of competitive companies categories to {company} from the [COMPETING SPACE CHOICES]
+industries: Identify up to 3 most relevant industries from the [INDUSTRIES LIST]. If none of the options describe the company accurately, select "Other". !Only select options that are included in the [INDUSTRIES LIST]!
+product_types: Select only one value that applies to {company} from "{product_types}".
+company_types: Select between 1 and 3 type that best describes the {company} from "{company_types}". It's desirable to select just one type that best describes the company, unless the company can only be described appropriately with 2 or 3 types. If none of the types are relevant, return "N/A".
