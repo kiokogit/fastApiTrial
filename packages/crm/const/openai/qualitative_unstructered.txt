@@ -1,0 +1,5 @@
+summary: Describe what the {company} does with 3 sentences at most.
+headline: Provide description for the {company} in just one line. Include the company name.
+catchline: Provide a snappy description of the {company} in the style of CryptoPanic, in just one line. Include the company name.
+problem: Identify the problem the {company} is solving. Maximum 50 words.
+solution: Identify the solution the {company} is offering. Maximum 50 words.

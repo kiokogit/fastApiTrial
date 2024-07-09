@@ -1,0 +1,353 @@
+{
+    "meta": {
+        "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcxNDE2Mzg1MTYzMjA0NjQ4OTYtMTcwMjY5OTMwNzQ0NQ==",
+        "pagination": {
+            "start": 0,
+            "total": null,
+            "count": 10
+        }
+    },
+    "activities": [
+        {
+            "activity_id": 7144507591782531072,
+            "activity_type": "Konstantine Buhler likes this",
+            "social_stats": {
+                "num_shares": 48,
+                "num_comments": 30,
+                "num_likes": 672
+            },
+            "media": [
+                {
+                    "type": "video_mp4",
+                    "url": "https://dms.licdn.com/playlist/vid/D4E05AQE8K4KCqDDDXw/mp4-720p-30fp-crf28/0/1703367301569?e=1704362400&v=beta&t=26psH-bRoT5ciSibOG2uMp9jJc_roZTnzU4DNJyCqMI",
+                    "width": 1280,
+                    "height": 720
+                }
+            ],
+            "actor": {
+                "profile_id": "michaeljacksonvc",
+                "first_name": "Michael",
+                "last_name": "Jackson",
+                "title": "Venture Capitalist",
+                "profile_picture": "https://media.licdn.com/dms/image/C5603AQEu6HtzpUaTOg/profile-displayphoto-shrink_800_800/0/1517733668628?e=1709164800&v=beta&t=Ru0-QLnRVLdUsLklShgQHVKD_OJtC7gvgxoTxQYStDM",
+                "entity_urn": "ACoAAAJDgfMBPAakcg6jSc_sPFoZ5I9iSMCrq68",
+                "object_urn": 37978611
+            },
+            "data": {
+                "text": "\u201cWe have reinvented computing for the first time since the IBM system 360, 60 years ago...\n\n...there's a trillion dollars worth of data center infrastructure installed in the world based on that old method of doing computation. Now we have accelerated computing, and we have the killer app for accelerated computing called generative AI.\" - Jensen Huang\n\nThe computing world is being flipped on its head. During a\u00a0gold rush,\u00a0sell shovels. \u26cf \n\n#vc #venturecapital #startups #entrepreneurs #entrepreneurship #tech #technology #innovation #deeptech #ai #artificialintelligence #nvidia #generativeai #genai #money #business",
+                "mentions": [
+                    {
+                        "start": 341,
+                        "length": 12,
+                        "profile_details": {
+                            "profile_id": "jenhsunhuang",
+                            "first_name": "Jensen",
+                            "last_name": "Huang",
+                            "title": "Founder and CEO, NVIDIA",
+                            "profile_picture": null,
+                            "entity_urn": "ACoAABMznFkB_XPgkYHnUl33kIHTWt1DtMAV6Pg",
+                            "object_urn": 322149465
+                        },
+                        "mention_type": "person_profile"
+                    }
+                ]
+            },
+            "created_at": "4d \u2022 Edited \u2022   "
+        },
+        {
+            "activity_id": 7143407497750409216,
+            "activity_type": "Konstantine Buhler reposted this",
+            "social_stats": {
+                "num_shares": 27,
+                "num_comments": 6,
+                "num_likes": 669
+            },
+            "media": [],
+            "actor": {
+                "profile_id": "leskovec",
+                "first_name": "Jure",
+                "last_name": "Leskovec",
+                "title": "Professor at Stanford Computer Science and Co-Founder at Kumo.ai",
+                "profile_picture": "https://media.licdn.com/dms/image/D4E03AQG7-urCRkt5Uw/profile-displayphoto-shrink_800_800/0/1692848882575?e=1709164800&v=beta&t=XTqFvxWZy-esRZul4hOJpfV_SlVvuXa0Wm0llcbIHKI",
+                "entity_urn": "ACoAAAACX7QBuhEoAgVDFVcrSCx5SC6TX7Ba-Lw",
+                "object_urn": 155572
+            },
+            "data": {
+                "text": "Making tabular machine learning easy with PyToch Frame. Check it out!",
+                "mentions": []
+            },
+            "created_at": "1w \u2022   "
+        },
+        {
+            "activity_id": 7143407475122212864,
+            "activity_type": "Konstantine Buhler loves this",
+            "social_stats": {
+                "num_shares": 27,
+                "num_comments": 6,
+                "num_likes": 669
+            },
+            "media": [],
+            "actor": {
+                "profile_id": "leskovec",
+                "first_name": "Jure",
+                "last_name": "Leskovec",
+                "title": "Professor at Stanford Computer Science and Co-Founder at Kumo.ai",
+                "profile_picture": "https://media.licdn.com/dms/image/D4E03AQG7-urCRkt5Uw/profile-displayphoto-shrink_800_800/0/1692848882575?e=1709164800&v=beta&t=XTqFvxWZy-esRZul4hOJpfV_SlVvuXa0Wm0llcbIHKI",
+                "entity_urn": "ACoAAAACX7QBuhEoAgVDFVcrSCx5SC6TX7Ba-Lw",
+                "object_urn": 155572
+            },
+            "data": {
+                "text": "Making tabular machine learning easy with PyToch Frame. Check it out!",
+                "mentions": []
+            },
+            "created_at": "1w \u2022   "
+        },
+        {
+            "activity_id": 7143319651400257536,
+            "activity_type": "Konstantine Buhler loves this",
+            "social_stats": {
+                "num_shares": 0,
+                "num_comments": 45,
+                "num_likes": 312
+            },
+            "media": [],
+            "actor": {
+                "profile_id": "staceygerber",
+                "first_name": "Stacey",
+                "last_name": "Gerber",
+                "title": "Partner, Operations & Experiences @ Sequoia",
+                "profile_picture": "https://media.licdn.com/dms/image/D5603AQGhXSk7NYvySA/profile-displayphoto-shrink_800_800/0/1703040853645?e=1709164800&v=beta&t=jreMkYg84pUG7T7T6xtF-Pzl6ixdKSCc0OyLzYpZG9U",
+                "entity_urn": "ACoAAABUkVsBSPZHcFpYi5hwYsrGt-Hu6QBz6HY",
+                "object_urn": 5542235
+            },
+            "data": {
+                "text": "Now Partner, Operations & Experiences at Sequoia Capital.",
+                "mentions": [
+                    {
+                        "start": 41,
+                        "length": 15,
+                        "profile_details": {
+                            "name": "Sequoia Capital",
+                            "logo_url": "https://media.licdn.com/dms/image/C560BAQEpt9WnLvadYQ/company-logo_400_400/0/1638904115341?e=1711584000&v=beta&t=_D7XzmCqP9s-EbFwQWfcApjJWsO8jdPHvd0QxinutAw",
+                            "universal_name": "sequoia"
+                        },
+                        "mention_type": "company_profile"
+                    }
+                ]
+            },
+            "created_at": "1w \u2022   "
+        },
+        {
+            "activity_id": 7142642287561363456,
+            "activity_type": "Konstantine Buhler loves this",
+            "social_stats": {
+                "num_shares": 0,
+                "num_comments": 0,
+                "num_likes": 6
+            },
+            "media": [],
+            "actor": {
+                "profile_id": "joel-newbert",
+                "first_name": "Joel",
+                "last_name": "Newbert",
+                "title": "Currently: CaptivateIQ | Prev: Gopuff, rideOS, Silver Lake",
+                "profile_picture": "https://media.licdn.com/dms/image/D5603AQEGqNZ2HLg3yA/profile-displayphoto-shrink_800_800/0/1673298140491?e=1709164800&v=beta&t=EtORZnCeA_nOvqce6fad9LzgthYFh9kRMlKTMwV29JA",
+                "entity_urn": "ACoAAAXxj-QBQa8p9WHq5adBtTcbM7awj_qsbz4",
+                "object_urn": 99717092
+            },
+            "data": {
+                "text": "It\u2019s wonderful to see the ongoing recognition and leadership from CaptivateIQ",
+                "mentions": [
+                    {
+                        "start": 66,
+                        "length": 11,
+                        "profile_details": {
+                            "name": "CaptivateIQ",
+                            "logo_url": "https://media.licdn.com/dms/image/D560BAQE1wQYpMbuBZQ/company-logo_400_400/0/1686073422935/captivateiq_logo?e=1711584000&v=beta&t=U1OJz5sjgJ1UMTyGt1yM2wCXkPwV17CnnCYOJjtX8DY",
+                            "universal_name": "captivateiq"
+                        },
+                        "mention_type": "company_profile"
+                    }
+                ]
+            },
+            "created_at": "1w \u2022   "
+        },
+        {
+            "activity_id": 7142642257802776576,
+            "activity_type": "Konstantine Buhler loves this",
+            "social_stats": {
+                "num_shares": 8,
+                "num_comments": 4,
+                "num_likes": 112
+            },
+            "media": [
+                {
+                    "type": "image",
+                    "url": "https://media.licdn.com/dms/image/D5622AQGmxN_sXN9usA/feedshare-shrink_2048_1536/0/1702929423190?e=1706745600&v=beta&t=mSzDq8kfVZ438wCgBeGsIVsdH9YoAb0izYa6vhtEZMU"
+                }
+            ],
+            "actor": {
+                "profile_id": "mschop",
+                "first_name": "Mark",
+                "last_name": "Schopmeyer",
+                "title": "Co-Founder @CaptivateIQ - Y Combinator (W18)",
+                "profile_picture": "https://media.licdn.com/dms/image/C5603AQEUQuvUpaBSpw/profile-displayphoto-shrink_400_400/0/1586368165001?e=1709164800&v=beta&t=IMitewQ1iFTZJkhyOWmsmwT72bS5ZuzmkfX4-6NRT5Y",
+                "entity_urn": "ACoAAABYkasBCv_t4c_oiKRFYPH6RRat-U3ZqQI",
+                "object_urn": 5804459
+            },
+            "data": {
+                "text": "I\u2019m excited to share that CaptivateIQ is once again a winner in our G2 category, earning the #1 spot in Sales Compensation as well as badges for:\n\nLeader Overall \ud83c\udfc6\nLeader in Enterprise \ud83c\udfc6\nLeader in Mid-Market \ud83c\udfc6\nLeader in EMEA \ud83c\udfc6\nHighest User Adoption in Enterprise \ud83c\udfc6\n\nAnd more!\n\nThanks to our customers who help make us better every day! \ud83d\ude4f\u2764\ufe0f\ufe0f\n\nCheck out our reviews: https://lnkd.in/dGZ3THX9\n\nSee the #SalesCompensation category page: https://lnkd.in/dgKZJF2Z ",
+                "mentions": []
+            },
+            "created_at": "1w \u2022   "
+        },
+        {
+            "activity_id": 7142642239230394368,
+            "activity_type": "Konstantine Buhler reposted this",
+            "social_stats": {
+                "num_shares": 18,
+                "num_comments": 6,
+                "num_likes": 350
+            },
+            "media": [],
+            "actor": {
+                "profile_id": "mschop",
+                "first_name": "Mark",
+                "last_name": "Schopmeyer",
+                "title": "Co-Founder @CaptivateIQ - Y Combinator (W18)",
+                "profile_picture": "https://media.licdn.com/dms/image/C5603AQEUQuvUpaBSpw/profile-displayphoto-shrink_400_400/0/1586368165001?e=1709164800&v=beta&t=IMitewQ1iFTZJkhyOWmsmwT72bS5ZuzmkfX4-6NRT5Y",
+                "entity_urn": "ACoAAABYkasBCv_t4c_oiKRFYPH6RRat-U3ZqQI",
+                "object_urn": 5804459
+            },
+            "data": {
+                "text": "Today, Spiff Inc announced its acquisition by Salesforce\n\nAnd we couldn\u2019t be more excited for them \ud83c\udf89.\n\nSpiff has built a solution for small businesses to manage commissions, a market that was previously unserved. They\u2019ve also been champions of modernizing the legacy incentive compensation management market. \n\nThis acquisition validates what we\u2019ve been preaching \u2013 no one should have to rely on 20 year-old software to run their most important business process \ud83d\udcbe.\n\n\ud83d\udc49 While Salesforce adds Spiff on to its growing suite of products, our product team at CaptivateIQ is pushing the boundaries on innovation and investing not just in the Salesforce integration, but our entire data-agnostic platform. \n\nWith our recent upgrades to our SmartGrid ELT engine, we\u2019re the only modern ICM solution for enterprise. And we can\u2019t wait for customers to see what we have in store for FY24.",
+                "mentions": [
+                    {
+                        "start": 7,
+                        "length": 9,
+                        "profile_details": {
+                            "name": "Spiff Inc",
+                            "logo_url": "https://media.licdn.com/dms/image/C560BAQH8ZnEZf57NfA/company-logo_400_400/0/1656902954094/spiff_co_logo?e=1711584000&v=beta&t=QVVTDqTetCMACfzQwHuXiYgpNpTKB7o-sCdT1H7NHzU",
+                            "universal_name": "spiff-co"
+                        },
+                        "mention_type": "company_profile"
+                    },
+                    {
+                        "start": 46,
+                        "length": 10,
+                        "profile_details": {
+                            "name": "Salesforce",
+                            "logo_url": "https://media.licdn.com/dms/image/C560BAQHZ9xYomLW7zg/company-logo_400_400/0/1630658255326/salesforce_logo?e=1711584000&v=beta&t=c3nrtvpRWkzjF4s11Ef79oHHlsaqX7lgdL7AnBUndYs",
+                            "universal_name": "salesforce"
+                        },
+                        "mention_type": "company_profile"
+                    }
+                ]
+            },
+            "created_at": "1w \u2022   "
+        },
+        {
+            "activity_id": 7142642226207100928,
+            "activity_type": "Konstantine Buhler loves this",
+            "social_stats": {
+                "num_shares": 18,
+                "num_comments": 6,
+                "num_likes": 350
+            },
+            "media": [],
+            "actor": {
+                "profile_id": "mschop",
+                "first_name": "Mark",
+                "last_name": "Schopmeyer",
+                "title": "Co-Founder @CaptivateIQ - Y Combinator (W18)",
+                "profile_picture": "https://media.licdn.com/dms/image/C5603AQEUQuvUpaBSpw/profile-displayphoto-shrink_400_400/0/1586368165001?e=1709164800&v=beta&t=IMitewQ1iFTZJkhyOWmsmwT72bS5ZuzmkfX4-6NRT5Y",
+                "entity_urn": "ACoAAABYkasBCv_t4c_oiKRFYPH6RRat-U3ZqQI",
+                "object_urn": 5804459
+            },
+            "data": {
+                "text": "Today, Spiff Inc announced its acquisition by Salesforce\n\nAnd we couldn\u2019t be more excited for them \ud83c\udf89.\n\nSpiff has built a solution for small businesses to manage commissions, a market that was previously unserved. They\u2019ve also been champions of modernizing the legacy incentive compensation management market. \n\nThis acquisition validates what we\u2019ve been preaching \u2013 no one should have to rely on 20 year-old software to run their most important business process \ud83d\udcbe.\n\n\ud83d\udc49 While Salesforce adds Spiff on to its growing suite of products, our product team at CaptivateIQ is pushing the boundaries on innovation and investing not just in the Salesforce integration, but our entire data-agnostic platform. \n\nWith our recent upgrades to our SmartGrid ELT engine, we\u2019re the only modern ICM solution for enterprise. And we can\u2019t wait for customers to see what we have in store for FY24.",
+                "mentions": [
+                    {
+                        "start": 7,
+                        "length": 9,
+                        "profile_details": {
+                            "name": "Spiff Inc",
+                            "logo_url": "https://media.licdn.com/dms/image/C560BAQH8ZnEZf57NfA/company-logo_400_400/0/1656902954094/spiff_co_logo?e=1711584000&v=beta&t=QVVTDqTetCMACfzQwHuXiYgpNpTKB7o-sCdT1H7NHzU",
+                            "universal_name": "spiff-co"
+                        },
+                        "mention_type": "company_profile"
+                    },
+                    {
+                        "start": 46,
+                        "length": 10,
+                        "profile_details": {
+                            "name": "Salesforce",
+                            "logo_url": "https://media.licdn.com/dms/image/C560BAQHZ9xYomLW7zg/company-logo_400_400/0/1630658255326/salesforce_logo?e=1711584000&v=beta&t=c3nrtvpRWkzjF4s11Ef79oHHlsaqX7lgdL7AnBUndYs",
+                            "universal_name": "salesforce"
+                        },
+                        "mention_type": "company_profile"
+                    }
+                ]
+            },
+            "created_at": "1w \u2022   "
+        },
+        {
+            "activity_id": 7142297143309922304,
+            "activity_type": "Konstantine Buhler finds this funny",
+            "social_stats": {
+                "num_shares": 3,
+                "num_comments": 28,
+                "num_likes": 247
+            },
+            "media": [
+                {
+                    "type": "image",
+                    "url": "https://media.licdn.com/dms/image/D5622AQHB7y7cxcP-8w/feedshare-shrink_2048_1536/0/1702389420372?e=1706745600&v=beta&t=ma7zfGHk9iYZ9PbG5d_y1z85jxvzPmTkqpiB6owmlew"
+                }
+            ],
+            "actor": {
+                "profile_id": "palmerhouchins",
+                "first_name": "Palmer",
+                "last_name": "Houchins",
+                "title": "VP, Head of Marketing at G2",
+                "profile_picture": "https://media.licdn.com/dms/image/C4E03AQH6DF10jVgeYQ/profile-displayphoto-shrink_800_800/0/1578408669046?e=1709164800&v=beta&t=SWqBNP8MsTOWMXZwIjEochU5mhk178c8V98KApkUP_w",
+                "entity_urn": "ACoAAADYTXABWmGNFdAXul7wtIjhApdT6V1JQwg",
+                "object_urn": 14175600
+            },
+            "data": {
+                "text": "Sales and marketing teams committing to their 2024 numbers while the rest of the company\u2026hopes for the best.",
+                "mentions": []
+            },
+            "created_at": "2w \u2022   "
+        },
+        {
+            "activity_id": 7141638516320464896,
+            "activity_type": "Konstantine Buhler loves this",
+            "social_stats": {
+                "num_shares": 145,
+                "num_comments": 174,
+                "num_likes": 6880
+            },
+            "media": [
+                {
+                    "type": "image",
+                    "url": "https://media.licdn.com/dms/image/D4D10AQGgZOhFUASKnQ/image-shrink_1280/0/1702582322635?e=1704362400&v=beta&t=kedqXHTBlhq2I8aypwiqKrpR0zEkV25MpS-dDAq9H3I"
+                }
+            ],
+            "actor": {
+                "profile_id": "ryanjbuick",
+                "first_name": "Ryan",
+                "last_name": "Buick",
+                "title": "cofounder @canvas - helping startups use data to grow without hiring",
+                "profile_picture": "https://media.licdn.com/dms/image/C5603AQF2gWiW4RFc0Q/profile-displayphoto-shrink_800_800/0/1645044839668?e=1709164800&v=beta&t=ZVTEgdHQWdUzPd33l8qaE82VOF74DompiYBKB8bdIcs",
+                "entity_urn": "ACoAAAdwtTYBq7cFyycXPrlC2cgWGkmtTDpMwiM",
+                "object_urn": 124826934
+            },
+            "data": {
+                "text": "\"Keep the dashboard simple.\"\n\nThe dashboard",
+                "mentions": []
+            },
+            "created_at": "1w \u2022   "
+        }
+    ]
+}

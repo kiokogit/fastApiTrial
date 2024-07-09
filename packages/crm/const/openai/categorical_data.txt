@@ -1,0 +1,3 @@
+[VERTICALS LIST]: "{verticals}"
+[COMPETING SPACE CHOICES]: "{competing_space}"
+[INDUSTRIES LIST]: "{industries}"

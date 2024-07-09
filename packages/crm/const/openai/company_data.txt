@@ -1,0 +1,7 @@
+[COMPANY FOUNDERS]: {founders}
+
+[COMPANY HEADQUARTERS]: {headquarters}
+
+[COMPANY WEBSITE]: {website_content}
+
+[COMPANY ABOUT]: {about}

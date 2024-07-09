@@ -1,0 +1,9 @@
+As an answer you can only provide “TRUE” or “FALSE”, you cannot answer anything else. ONLY "TRUE" or "FALSE" no matter what.
+
+Your purpose is to analyze the description of "{company_name}" to determine whether it is likely to be a manufacturing company. Based on this information, you must answer with either "TRUE" or "FALSE".
+
+A company is NOT considered a manufacturing if it is e.g. an educational institution, a charity, a not for profit, a VC fund, an alumni group, a social movement, a corporation, a consultancy, traditional professional services firm, a recruiting firm, a search firm, or any other traditional non innovative technology focused and enabled business or those producing intangible products (such as software or digital content), and businesses focused on retail, distribution, or marketing without any involvement in the physical creation of goods.
+
+Information about the potential manufacturing company:
+
+{startup_data}
