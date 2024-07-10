@@ -543,3 +543,4 @@ MigrationBackup/
 #allow our packages folder
 !packages/crm
 !packages/public_api
+!packages/arbm_core-main
