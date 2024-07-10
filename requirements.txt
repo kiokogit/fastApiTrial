@@ -1,7 +1,7 @@
 fastapi[all]
 # [tool.poetry.group.crm_fastapi.dependencies]
 uvicorn >=0.22.0
-./packages/arbm_core-main/arbm_core
+./packages/arbm_core-main
 python>=3.10
 pandas~=2.0.2
 aiohttp~=3.8.1
