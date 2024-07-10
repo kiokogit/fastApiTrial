@@ -6,8 +6,6 @@ services:
     plan: free
     autoDeploy: false
     buildCommand: |
-      mkdir -p ~/.ssh
-      ssh-keyscan github.com >> ~/.ssh/known_hosts
-      GIT_SSH_COMMAND="ssh -o StrictHostKeyChecking=no" poetry install
+      pip install -r requirements.txt
     startCommand: uvicorn packages.public_api.app:app --host 0.0.0.0 --port 10000 --workers 4
     
