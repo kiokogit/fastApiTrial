@@ -1,6 +1,6 @@
 fastapi[all]
 # [tool.poetry.group.crm_fastapi.dependencies]
-uvicorn = "^0.22.0"
+uvicorn >=0.22.0
 arbm_core = {git = "git@github.com:iteriter/arbm_core.git", branch = "main"}
 python>=3.10
 pandas~=2.0.2
